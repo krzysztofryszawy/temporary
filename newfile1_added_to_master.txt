@@ -1,1 +1,2 @@
 1st line // added on master branch
+2nd line // added on master branch in next commit
